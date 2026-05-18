@@ -8,6 +8,7 @@ A EduTech Forward enfrenta quatro problemas centrais de governança:
 - ❌ **Cancelamentos sem rastreabilidade** — acesso do aluno permanece ativo por até 48h
 - 🧠 **Perda de memória técnica** — decisões arquiteturais se perdem com a rotatividade
 - 📖 **Sem dicionário de dados** — termos como "aluno ativo" têm definições conflitantes
+  
 ---
  
 ## 📁 Estrutura do Repositório
